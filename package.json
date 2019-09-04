@@ -1,0 +1,23 @@
+{
+  "name": "managebac-plus-chat",
+  "version": "1.0.0",
+  "description": "A chat for managebac plus (server side)",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run dev",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Niteblock/managebacchat.git"
+  },
+  "keywords": [
+    "Mangebac"
+  ],
+  "author": "Nite (Samuel)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Niteblock/managebacchat/issues"
+  },
+  "homepage": "https://github.com/Niteblock/managebacchat#readme"
+}
